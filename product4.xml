@@ -1,8 +1,8 @@
 <SERVER>
 <Zajezd>
-<ID>20855</ID>
-<Nazev>Jednodenní koupání v Opatiji</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20855/219476.jpeg</ImageURL>
+<ID>20851</ID>
+<Nazev>Jednodenní koupání v Crikvenici</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20851/219467.jpeg</ImageURL>
 <Price>2390.0000</Price>
 <SalePrice>1799.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
@@ -14,21 +14,22 @@
 <Kategorie>Předprodej</Kategorie>
 <Kategorie>Dostupné hned</Kategorie>
 <Kategorie>Jednodenní</Kategorie>
+<Kategorie>Oblíbené v minulé sezóně</Kategorie>
 <Kategorie>Jednodenní koupání</Kategorie>
-<Kategorie>Novinka</Kategorie>
 </KategorieZajezdu>
 <HotelStars/>
 <Stat>Chorvatsko</Stat>
 <Oblast>Kvarner</Oblast>
-<Stredisko>Opatija</Stredisko>
-<GeneralHotelID>4643</GeneralHotelID>
-<TotalHotelIDArray>4643</TotalHotelIDArray>
+<Stredisko>Crikvenica</Stredisko>
+<GeneralHotelID>809</GeneralHotelID>
+<TotalHotelIDArray>809</TotalHotelIDArray>
 <TypHotel>TRIP_DESTINATION</TypHotel>
-<HotelNazev>Opatija</HotelNazev>
-<HotelLatitude>45.3395351672</HotelLatitude>
-<HotelLongitude>14.3127254696</HotelLongitude>
+<HotelNazev>Crikvenica</HotelNazev>
+<HotelLatitude>45.1798184002</HotelLatitude>
+<HotelLongitude>14.7027009971</HotelLongitude>
 </Zajezd>
 </SERVER>
+
 
 
 
