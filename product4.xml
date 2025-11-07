@@ -1,10 +1,10 @@
 <SERVER>
 <Zajezd>
-<ID>20844</ID>
-<Nazev>Pension Ivanka</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Hotel/7615/219411.jpeg</ImageURL>
-<Price>7999.0000</Price>
-<SalePrice>7119.0000</SalePrice>
+<ID>20805</ID>
+<Nazev>Aminess Vival Grand Azur Hotel</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Hotel/5477/139936.jpeg</ImageURL>
+<Price>5599.0000</Price>
+<SalePrice>4255.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
 <KatalogID>63</KatalogID>
 <KatalogTypeID>1</KatalogTypeID>
@@ -12,24 +12,27 @@
 <VlastniDoprava>1</VlastniDoprava>
 <KategorieZajezdu>
 <Kategorie>Předprodej</Kategorie>
-<Kategorie>Dostupné hned</Kategorie>
-<Kategorie>Doprava zdarma</Kategorie>
+<Kategorie>Děti/dítě zdarma</Kategorie>
+<Kategorie>Rodinné pokoje</Kategorie>
 <Kategorie>First minute</Kategorie>
-<Kategorie>Garance nejnižší ceny</Kategorie>
 <Kategorie>První řada u moře</Kategorie>
+<Kategorie>Vhodné pro rodiny s dětmi</Kategorie>
+<Kategorie>Domácí zvířata povolena</Kategorie>
+<Kategorie>Aminess Hotels & Campsites</Kategorie>
 </KategorieZajezdu>
-<HotelStars>3</HotelStars>
+<HotelStars>4</HotelStars>
 <Stat>Chorvatsko</Stat>
-<Oblast>Střední Dalmácie</Oblast>
-<Stredisko>Gradac</Stredisko>
-<GeneralHotelID>7615</GeneralHotelID>
-<TotalHotelIDArray>7615</TotalHotelIDArray>
+<Oblast>Jižní Dalmácie</Oblast>
+<Stredisko>Pelješac - Orebič</Stredisko>
+<GeneralHotelID>5477</GeneralHotelID>
+<TotalHotelIDArray>5477</TotalHotelIDArray>
 <TypHotel>ACCOMODATION</TypHotel>
-<HotelNazev>Pension Ivanka</HotelNazev>
-<HotelLatitude>43.1045545482</HotelLatitude>
-<HotelLongitude>17.3430522181</HotelLongitude>
+<HotelNazev>Aminess Vival Grand Azur Hotel</HotelNazev>
+<HotelLatitude>42.9745736349</HotelLatitude>
+<HotelLongitude>17.1616246712</HotelLongitude>
 </Zajezd>
 </SERVER>
+
 
 
 
