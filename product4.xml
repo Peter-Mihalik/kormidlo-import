@@ -1,6 +1,6 @@
 <SERVER>
 <Zajezd>
-<ID>9999</ID>
+<ID>99990</ID>
 <Nazev>Test123</Nazev>
 <ImageURL>https://data.ceskekormidlo.cz/Hotel/5477/139936.jpeg</ImageURL>
 <Price>5599.0000</Price>
@@ -32,6 +32,7 @@
 <HotelLongitude>17.1616246712</HotelLongitude>
 </Zajezd>
 </SERVER>
+
 
 
 
