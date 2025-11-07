@@ -1,7 +1,7 @@
 <SERVER>
 <Zajezd>
 <ID>20805</ID>
-<Nazev>Aminess Vival Grand Azur Hotel</Nazev>
+<Nazev>Test123</Nazev>
 <ImageURL>https://data.ceskekormidlo.cz/Hotel/5477/139936.jpeg</ImageURL>
 <Price>5599.0000</Price>
 <SalePrice>4255.0000</SalePrice>
@@ -21,7 +21,7 @@
 <Kategorie>Aminess Hotels & Campsites</Kategorie>
 </KategorieZajezdu>
 <HotelStars>4</HotelStars>
-<Stat>Chorvatsko</Stat>
+<Stat>PeterMihalik</Stat>
 <Oblast>Jižní Dalmácie</Oblast>
 <Stredisko>Pelješac - Orebič</Stredisko>
 <GeneralHotelID>5477</GeneralHotelID>
@@ -32,6 +32,7 @@
 <HotelLongitude>17.1616246712</HotelLongitude>
 </Zajezd>
 </SERVER>
+
 
 
 
