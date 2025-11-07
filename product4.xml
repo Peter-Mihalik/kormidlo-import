@@ -1,10 +1,10 @@
 <SERVER>
 <Zajezd>
-<ID>20866</ID>
-<Nazev>Dukič Holiday resort (pokoje)</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Hotel/7619/219760.jpeg</ImageURL>
-<Price>5799.0000</Price>
-<SalePrice>5161.0000</SalePrice>
+<ID>20852</ID>
+<Nazev>Kemp Almissa (mobilhomy s polopenzí)</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Hotel/6827/191981.jpeg</ImageURL>
+<Price>19999.0000</Price>
+<SalePrice>17799.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
 <KatalogID>63</KatalogID>
 <KatalogTypeID>1</KatalogTypeID>
@@ -14,25 +14,27 @@
 <Kategorie>Předprodej</Kategorie>
 <Kategorie>Děti/dítě zdarma</Kategorie>
 <Kategorie>Rodinné pokoje</Kategorie>
+<Kategorie>Dostupné hned</Kategorie>
 <Kategorie>Doprava zdarma</Kategorie>
+<Kategorie>Oblíbené v minulé sezóně</Kategorie>
 <Kategorie>First minute</Kategorie>
 <Kategorie>Garance nejnižší ceny</Kategorie>
 <Kategorie>Domácí zvířata povolena</Kategorie>
-<Kategorie>Novinka</Kategorie>
+<Kategorie>2 koupelny</Kategorie>
+<Kategorie>Vhodné pro skupiny</Kategorie>
 <Kategorie>Dvě děti zdarma</Kategorie>
-<Kategorie>Dospělá osoba a dítě výhodně</Kategorie>
+<Kategorie>Kempy Chorvatsko</Kategorie>
 <Kategorie>Exkluzivní nabídka</Kategorie>
-<Kategorie>Dětský klub</Kategorie>
 </KategorieZajezdu>
 <HotelStars>3</HotelStars>
 <Stat>Chorvatsko</Stat>
 <Oblast>Střední Dalmácie</Oblast>
-<Stredisko>Promajna</Stredisko>
-<GeneralHotelID>7619</GeneralHotelID>
-<TotalHotelIDArray>7619</TotalHotelIDArray>
+<Stredisko>Omiš</Stredisko>
+<GeneralHotelID>6827</GeneralHotelID>
+<TotalHotelIDArray>6827</TotalHotelIDArray>
 <TypHotel>ACCOMODATION</TypHotel>
-<HotelNazev>Dukič Holiday resort (pokoje)</HotelNazev>
-<HotelLatitude>43.3359730959</HotelLatitude>
-<HotelLongitude>16.9727738664</HotelLongitude>
+<HotelNazev>Kemp Galeb (mobilhomy s polopenzí)</HotelNazev>
+<HotelLatitude>43.4417418498</HotelLatitude>
+<HotelLongitude>16.6817240105</HotelLongitude>
 </Zajezd>
 </SERVER>
