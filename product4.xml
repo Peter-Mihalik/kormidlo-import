@@ -1,8 +1,8 @@
 <SERVER>
 <Zajezd>
-<ID>20858</ID>
-<Nazev>Jednodenní koupání v Gradu</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20858/219561.jpeg</ImageURL>
+<ID>20855</ID>
+<Nazev>Jednodenní koupání v Opatiji</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20855/219476.jpeg</ImageURL>
 <Price>2390.0000</Price>
 <SalePrice>1799.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
@@ -18,15 +18,18 @@
 <Kategorie>Novinka</Kategorie>
 </KategorieZajezdu>
 <HotelStars/>
-<Stat>Itálie</Stat>
-<Oblast>Friuli Venezia Giulia</Oblast>
-<Stredisko>Grado</Stredisko>
-<GeneralHotelID>7618</GeneralHotelID>
-<TotalHotelIDArray>7618</TotalHotelIDArray>
+<Stat>Chorvatsko</Stat>
+<Oblast>Kvarner</Oblast>
+<Stredisko>Opatija</Stredisko>
+<GeneralHotelID>4643</GeneralHotelID>
+<TotalHotelIDArray>4643</TotalHotelIDArray>
 <TypHotel>TRIP_DESTINATION</TypHotel>
-<HotelNazev>Grado</HotelNazev>
+<HotelNazev>Opatija</HotelNazev>
+<HotelLatitude>45.3395351672</HotelLatitude>
+<HotelLongitude>14.3127254696</HotelLongitude>
 </Zajezd>
 </SERVER>
+
 
 
 
