@@ -1,8 +1,8 @@
 <SERVER>
 <Zajezd>
-<ID>20854</ID>
-<Nazev>Jednodenní koupání v Rovinji</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20854/219530.jpeg</ImageURL>
+<ID>20856</ID>
+<Nazev>Jednodenní koupání v Malinske</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20856/219542.jpeg</ImageURL>
 <Price>2390.0000</Price>
 <SalePrice>1799.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
@@ -19,12 +19,13 @@
 </KategorieZajezdu>
 <HotelStars/>
 <Stat>Chorvatsko</Stat>
-<Oblast>Istrie</Oblast>
-<Stredisko>Rovinj</Stredisko>
-<GeneralHotelID>6150</GeneralHotelID>
-<TotalHotelIDArray>6150</TotalHotelIDArray>
+<Oblast>ostrov Krk</Oblast>
+<Stredisko>Malinska</Stredisko>
+<GeneralHotelID>7616</GeneralHotelID>
+<TotalHotelIDArray>7616</TotalHotelIDArray>
 <TypHotel>TRIP_DESTINATION</TypHotel>
-<HotelNazev>Rovinj</HotelNazev>
+<HotelNazev>Malinska</HotelNazev>
 </Zajezd>
 </SERVER>
+
 
