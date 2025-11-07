@@ -1,10 +1,10 @@
 <SERVER>
-<<Zajezd>
-<ID>20852</ID>
-<Nazev>Kemp Almissa (mobilhomy s polopenzí)</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Hotel/6827/191981.jpeg</ImageURL>
-<Price>19999.0000</Price>
-<SalePrice>17799.0000</SalePrice>
+<Zajezd>
+<ID>20727</ID>
+<Nazev>Vila Grgić</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Hotel/7593/217592.jpeg</ImageURL>
+<Price>5799.6666</Price>
+<SalePrice>5278.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
 <KatalogID>63</KatalogID>
 <KatalogTypeID>1</KatalogTypeID>
@@ -12,32 +12,22 @@
 <VlastniDoprava>1</VlastniDoprava>
 <KategorieZajezdu>
 <Kategorie>Předprodej</Kategorie>
-<Kategorie>Děti/dítě zdarma</Kategorie>
-<Kategorie>Rodinné pokoje</Kategorie>
-<Kategorie>Dostupné hned</Kategorie>
-<Kategorie>Doprava zdarma</Kategorie>
-<Kategorie>Oblíbené v minulé sezóně</Kategorie>
 <Kategorie>First minute</Kategorie>
-<Kategorie>Garance nejnižší ceny</Kategorie>
 <Kategorie>Domácí zvířata povolena</Kategorie>
-<Kategorie>2 koupelny</Kategorie>
-<Kategorie>Vhodné pro skupiny</Kategorie>
-<Kategorie>Dvě děti zdarma</Kategorie>
-<Kategorie>Kempy Chorvatsko</Kategorie>
-<Kategorie>Exkluzivní nabídka</Kategorie>
 </KategorieZajezdu>
-<HotelStars>3</HotelStars>
+<HotelStars/>
 <Stat>Chorvatsko</Stat>
 <Oblast>Střední Dalmácie</Oblast>
-<Stredisko>Omiš</Stredisko>
-<GeneralHotelID>6827</GeneralHotelID>
-<TotalHotelIDArray>6827</TotalHotelIDArray>
+<Stredisko>Brist</Stredisko>
+<GeneralHotelID>7593</GeneralHotelID>
+<TotalHotelIDArray>7593</TotalHotelIDArray>
 <TypHotel>ACCOMODATION</TypHotel>
-<HotelNazev>Kemp Galeb (mobilhomy s polopenzí)</HotelNazev>
-<HotelLatitude>43.4417418498</HotelLatitude>
-<HotelLongitude>16.6817240105</HotelLongitude>
+<HotelNazev>Vila Grgić</HotelNazev>
+<HotelLatitude>43.1193893583</HotelLatitude>
+<HotelLongitude>17.3225334957</HotelLongitude>
 </Zajezd>
 </SERVER>
+
 
 
 
