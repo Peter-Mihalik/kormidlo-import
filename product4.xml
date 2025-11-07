@@ -1,40 +1,30 @@
 <SERVER>
 <Zajezd>
-<ID>20852</ID>
-<Nazev>Kemp Almissa (mobilhomy s polopenzí)</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Hotel/6827/191981.jpeg</ImageURL>
-<Price>19999.0000</Price>
-<SalePrice>17799.0000</SalePrice>
+<ID>20854</ID>
+<Nazev>Jednodenní koupání v Rovinji</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20854/219530.jpeg</ImageURL>
+<Price>2390.0000</Price>
+<SalePrice>1799.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
 <KatalogID>63</KatalogID>
 <KatalogTypeID>1</KatalogTypeID>
 <Popis/>
-<VlastniDoprava>1</VlastniDoprava>
+<VlastniDoprava/>
 <KategorieZajezdu>
 <Kategorie>Předprodej</Kategorie>
-<Kategorie>Děti/dítě zdarma</Kategorie>
-<Kategorie>Rodinné pokoje</Kategorie>
 <Kategorie>Dostupné hned</Kategorie>
-<Kategorie>Doprava zdarma</Kategorie>
-<Kategorie>Oblíbené v minulé sezóně</Kategorie>
-<Kategorie>First minute</Kategorie>
-<Kategorie>Garance nejnižší ceny</Kategorie>
-<Kategorie>Domácí zvířata povolena</Kategorie>
-<Kategorie>2 koupelny</Kategorie>
-<Kategorie>Vhodné pro skupiny</Kategorie>
-<Kategorie>Dvě děti zdarma</Kategorie>
-<Kategorie>Kempy Chorvatsko</Kategorie>
-<Kategorie>Exkluzivní nabídka</Kategorie>
+<Kategorie>Jednodenní</Kategorie>
+<Kategorie>Jednodenní koupání</Kategorie>
+<Kategorie>Novinka</Kategorie>
 </KategorieZajezdu>
-<HotelStars>3</HotelStars>
+<HotelStars/>
 <Stat>Chorvatsko</Stat>
-<Oblast>Střední Dalmácie</Oblast>
-<Stredisko>Omiš</Stredisko>
-<GeneralHotelID>6827</GeneralHotelID>
-<TotalHotelIDArray>6827</TotalHotelIDArray>
-<TypHotel>ACCOMODATION</TypHotel>
-<HotelNazev>Kemp Galeb (mobilhomy s polopenzí)</HotelNazev>
-<HotelLatitude>43.4417418498</HotelLatitude>
-<HotelLongitude>16.6817240105</HotelLongitude>
+<Oblast>Istrie</Oblast>
+<Stredisko>Rovinj</Stredisko>
+<GeneralHotelID>6150</GeneralHotelID>
+<TotalHotelIDArray>6150</TotalHotelIDArray>
+<TypHotel>TRIP_DESTINATION</TypHotel>
+<HotelNazev>Rovinj</HotelNazev>
 </Zajezd>
 </SERVER>
+
