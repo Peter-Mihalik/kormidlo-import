@@ -1,33 +1,29 @@
 <Zajezd>
-<ID>20818</ID>
-<Nazev>Family Hotel Amarin</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Hotel/7612/219349.jpeg</ImageURL>
-<Price>10899.0000</Price>
-<SalePrice>9918.0000</SalePrice>
+<ID>20851</ID>
+<Nazev>Jednodenní koupání v Crikvenici</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20851/219467.jpeg</ImageURL>
+<Price>2390.0000</Price>
+<SalePrice>1799.0000</SalePrice>
 <Katalog>Léto 2026</Katalog>
 <KatalogID>63</KatalogID>
 <KatalogTypeID>1</KatalogTypeID>
 <Popis/>
-<VlastniDoprava>1</VlastniDoprava>
+<VlastniDoprava/>
 <KategorieZajezdu>
 <Kategorie>Předprodej</Kategorie>
-<Kategorie>Děti/dítě zdarma</Kategorie>
-<Kategorie>Rodinné pokoje</Kategorie>
+<Kategorie>Dostupné hned</Kategorie>
+<Kategorie>Jednodenní</Kategorie>
 <Kategorie>Oblíbené v minulé sezóně</Kategorie>
-<Kategorie>First minute</Kategorie>
-<Kategorie>První řada u moře</Kategorie>
-<Kategorie>Domácí zvířata povolena</Kategorie>
-<Kategorie>Dvě děti zdarma</Kategorie>
-<Kategorie>Maistra Select</Kategorie>
+<Kategorie>Jednodenní koupání</Kategorie>
 </KategorieZajezdu>
-<HotelStars>4</HotelStars>
+<HotelStars/>
 <Stat>Chorvatsko</Stat>
-<Oblast>Istrie</Oblast>
-<Stredisko>Rovinj</Stredisko>
-<GeneralHotelID>7612</GeneralHotelID>
-<TotalHotelIDArray>7612</TotalHotelIDArray>
-<TypHotel>ACCOMODATION</TypHotel>
-<HotelNazev>Family Hotel Amarin</HotelNazev>
-<HotelLatitude>45.1026615175</HotelLatitude>
-<HotelLongitude>13.6246934513</HotelLongitude>
+<Oblast>Kvarner</Oblast>
+<Stredisko>Crikvenica</Stredisko>
+<GeneralHotelID>809</GeneralHotelID>
+<TotalHotelIDArray>809</TotalHotelIDArray>
+<TypHotel>TRIP_DESTINATION</TypHotel>
+<HotelNazev>Crikvenica</HotelNazev>
+<HotelLatitude>45.1798184002</HotelLatitude>
+<HotelLongitude>14.7027009971</HotelLongitude>
 </Zajezd>
