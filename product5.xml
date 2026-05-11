@@ -1,32 +1,34 @@
 <Zajezd>
-<ID>20607</ID>
-<Nazev>Hotel Rikli balance 2026</Nazev>
-<ImageURL>https://data.ceskekormidlo.cz/Zajezd/20607/214833.jpeg</ImageURL>
-<Price>6999.0000</Price>
-<SalePrice>4799.0000</SalePrice>
-<Katalog>Lázně a wellness 2026</Katalog>
-<KatalogID>64</KatalogID>
-<KatalogTypeID>4</KatalogTypeID>
+<ID>14424</ID>
+<Nazev>Delfinárium a ZOO v Norimberku</Nazev>
+<ImageURL>https://data.ceskekormidlo.cz/Zajezd/14424/216803.jpeg</ImageURL>
+<Price>1999.0000</Price>
+<SalePrice>1299.0000</SalePrice>
+<Katalog>Poznávací zájezdy 2022/2023</Katalog>
+<KatalogID>39</KatalogID>
+<KatalogTypeID>3</KatalogTypeID>
 <Popis/>
-<VlastniDoprava>1</VlastniDoprava>
+<VlastniDoprava/>
 <KategorieZajezdu>
-<Kategorie>Děti/dítě zdarma</Kategorie>
-<Kategorie>Rodinné pokoje</Kategorie>
-<Kategorie>Luxusní dovolená</Kategorie>
-<Kategorie>U jezera</Kategorie>
-<Kategorie>Moderní ubytování</Kategorie>
+<Kategorie>Pro děti</Kategorie>
+<Kategorie>Dostupné hned</Kategorie>
+<Kategorie>Jednodenní</Kategorie>
 <Kategorie>Oblíbené v minulé sezóně</Kategorie>
-<Kategorie>Wellness</Kategorie>
-<Kategorie>Sava Hotels & Resorts</Kategorie>
+<Kategorie>Petra Fialová</Kategorie>
+<Kategorie>Ivana Brodecká</Kategorie>
+<Kategorie>Alena Harnová</Kategorie>
+<Kategorie>Zuzana Spurná</Kategorie>
+<Kategorie>Kateřina Barošová</Kategorie>
+<Kategorie>Andrea Pánková</Kategorie>
 </KategorieZajezdu>
-<HotelStars>4</HotelStars>
-<Stat>Slovinsko</Stat>
-<Oblast>Jezero Bled</Oblast>
-<Stredisko>Bled</Stredisko>
-<GeneralHotelID>3878</GeneralHotelID>
-<TotalHotelIDArray>3878</TotalHotelIDArray>
-<TypHotel>ACCOMODATION</TypHotel>
-<HotelNazev>Rikli Balance Hotel</HotelNazev>
-<HotelLatitude>46.3656840000</HotelLatitude>
-<HotelLongitude>14.1092970000</HotelLongitude>
+<HotelStars/>
+<Stat>Německo</Stat>
+<Oblast>Bavorsko</Oblast>
+<Stredisko>Norimberg</Stredisko>
+<GeneralHotelID>902</GeneralHotelID>
+<TotalHotelIDArray>902,805</TotalHotelIDArray>
+<TypHotel>TRIP_DESTINATION</TypHotel>
+<HotelNazev>Norimberk</HotelNazev>
+<HotelLatitude>49.4362052179</HotelLatitude>
+<HotelLongitude>11.1330373000</HotelLongitude>
 </Zajezd>
